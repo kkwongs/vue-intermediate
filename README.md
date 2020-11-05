@@ -15,3 +15,7 @@
 - [객체를 JSON 문자열로 변환하는 API JSON.stringify()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 
 - [JSON 문자열 분석 후 객체 생성 API JSON.parse()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+
+- [모달 컴포넌트 예시](https://kr.vuejs.org/v2/examples/modal.html)
+
+- [트랜지션](https://kr.vuejs.org/v2/guide/transitions.html)
