@@ -19,3 +19,5 @@
 - [모달 컴포넌트 예시](https://kr.vuejs.org/v2/examples/modal.html)
 
 - [트랜지션](https://kr.vuejs.org/v2/guide/transitions.html)
+
+- [BABEL](https://babeljs.io/)
